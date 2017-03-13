@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Calculadora científica</title>
-<link href="WEB-INF/style.css" rel="stylesheet" type="text/css">
+<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<h1>Esta es la calculadora científica de CalculadoraAgustín</h1>
