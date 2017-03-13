@@ -5,9 +5,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Calculadora científica</title>
+<link href="WEB-INF/style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<h1>Esta es la calculadora científica de CalculadoraAgustín</h1>
+		<h3>Version de Marcos</h3>
 	<div align="center">
 		<table>
 			<tr>
@@ -36,6 +38,7 @@
 				</td>
 			</tr>
 		</table>
+		
 	</div>
 </body>
 </html>
