@@ -15,5 +15,8 @@
 	<br>
 	<br>
 	<a href="index.html">Volver a calcular</a>
+	
+	<h1>Codigo fuente en resultado.jsp. Primer Commit</h1>
+	
 </body>
 </html>
