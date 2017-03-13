@@ -7,6 +7,10 @@ package modelo;
 
  */
 
+/**
+ * modificada por DiegoRCKursk 
+ */
+
 public class Operaciones {
 	int operandoa;
 	int operandob;
