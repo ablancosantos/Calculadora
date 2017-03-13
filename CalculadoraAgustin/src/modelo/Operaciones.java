@@ -9,6 +9,7 @@ package modelo;
 
 /**
  * modificada por DiegoRCKursk 
+ * segundo comentario de operaciones
  */
 
 public class Operaciones {
